@@ -1,1 +1,6 @@
 Client/x64/*
+
+*.aps
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
