@@ -1,4 +1,5 @@
 Client/x64/*
+Server/x64/*
 
 *.aps
 *.vcxproj
